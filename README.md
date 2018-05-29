@@ -8,3 +8,5 @@ As explained in the link above, the dataset is balanced with each classes having
 Methods Implemented: ANN with one and two hidden layers and CNN. Moreover, the original images were also converted into grayscale and classified to see the difference in the accuracies between the colored and grayscaled version of the dataset.
 
 The main.m file contains all the methods implemented. The grayscaled and original images are also available as mat files.
+
+Note: Grayscaled images and test and training images were stored as .mat files and called directly via the filename in the main.m.
